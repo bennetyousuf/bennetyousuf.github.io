@@ -1,5 +1,5 @@
 header {
-   background: lightblue ;
+   background-color: lightblue ;
 } 
 
 h1 {
@@ -7,6 +7,6 @@ h1 {
     margin: 0;
     margin-bottom: 20px;
     font-size: 28px;
-    color: rgb(238, 238, 238);
+    color: rgb(44, 44, 44);
     text-align: center;
   }
